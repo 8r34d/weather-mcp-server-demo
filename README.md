@@ -4,7 +4,13 @@ Build your first MCP Server: Tutorial for Beginners
 
 - https://www.youtube.com/watch?v=egVm_z1nnnQ
 
-- https://github.com/debs-obrien/mcp-weather-server-demo
+## credits
+
+Big thanks to Debbie O'Brien for providing this tutorial
+
+- https://github.com/debs-obrien
+
+- https://www.youtube.com/@DebbieOBrien
 
 ## api
 
