@@ -6,6 +6,16 @@ Build your first MCP Server: Tutorial for Beginners
 
 - https://github.com/debs-obrien/mcp-weather-server-demo
 
+## api
+
+`geocoding`
+
+- https://open-meteo.com/en/docs/geocoding-api
+
+`weather`
+
+- https://open-meteo.com/en/docs
+
 ## typescript sdk
 
 `https://github.com/modelcontextprotocol/typescript-sdk`
