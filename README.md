@@ -45,3 +45,24 @@ _see package.json_
 Open the link from the console that contains the `MCP_PROXY_AUTH_TOKEN`
 
 `http://localhost:6274/?MCP_PROXY_AUTH_TOKEN=<your-token>`
+
+## local mcp weather server
+
+`.vscode/mcp.json`
+
+```json
+{
+  "servers": {
+    "my-mcp-weather-server": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "tsx", "main.ts"]
+    }
+  },
+  "inputs": []
+}
+```
+
+## chat prompt
+
+![Chat](my-mcp-weather-server.png?raw=true "Prompt Example")
